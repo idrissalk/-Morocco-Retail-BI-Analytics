@@ -38,12 +38,13 @@ Raw Data → Python → SQL Server → DAX → Power BI
 
 ## 🗃️ Data Model
 
-[]
+<img width="1450" height="630" alt="Capture d&#39;écran 2026-09-14 131411" src="https://github.com/user-attachments/assets/9bdba261-e450-461f-bcb3-3cebf4a14f69" />
+
 
 ## 📈 Power BI Dashboard
 
-[<img width="1150" height="648" alt="screenshot" src="https://github.com/user-attachments/assets/aa3d6a8d-5d11-4d7c-8113-dd22f4448b31" />
-]
+<img width="1150" height="648" alt="screenshot" src="https://github.com/user-attachments/assets/aa3d6a8d-5d11-4d7c-8113-dd22f4448b31" />
+
 
 ## 🔍 SQL Analysis
 
