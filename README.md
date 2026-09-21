@@ -18,7 +18,7 @@ suppliers, categories and geographic distribution.
 - Power BI
 - DAX
 - Pandas
-- Matplotlib
+- Numpy
 - Git / GitHub
 
 ## 🏗️ Architecture
@@ -38,13 +38,23 @@ Raw Data → Python → SQL Server → DAX → Power BI
 
 ## 🗃️ Data Model
 
-<img width="1450" height="630" alt="Capture d&#39;écran 2026-09-14 131411" src="https://github.com/user-attachments/assets/9bdba261-e450-461f-bcb3-3cebf4a14f69" />
+<img width="1434" height="641" alt="Capture d&#39;écran 2026-09-14 132035" src="https://github.com/user-attachments/assets/6b13e792-d6a5-4243-a80c-e4fb79da6a14" />
+
 
 
 ## 📈 Power BI Dashboard
 
 <img width="1150" height="648" alt="screenshot" src="https://github.com/user-attachments/assets/aa3d6a8d-5d11-4d7c-8113-dd22f4448b31" />
 
+## 🐍 Python
+
+Python was used for:
+
+- Data cleaning
+- Data preprocessing
+- Data validation
+- Exploratory analysis
+- Export Structured Dataset to  SQL Server
 
 ## 🔍 SQL Analysis
 
@@ -57,14 +67,6 @@ The SQL layer includes:
 - Data transformation
 - Analytical queries
 
-## 🐍 Python
-
-Python was used for:
-
-- Data cleaning
-- Data preprocessing
-- Data validation
-- Exploratory analysis
 
 ## 📊 Power BI
 
